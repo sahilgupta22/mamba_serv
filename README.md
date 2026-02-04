@@ -47,6 +47,8 @@ are implemented from scratch in `03_model_definitions.py`.
 
 The dataset requires **credentialed access** via PhysioNet.
 
+It can be found here: https://physionet.org/content/temporal-respiratory-support/1.1.0/100/#files-panel
+
 1. Create a PhysioNet account and sign the Data Use Agreement.
 2. Download the dataset and unpack it so the directory tree matches:
 
